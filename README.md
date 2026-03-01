@@ -24,7 +24,7 @@ The script performs three steps:
 
 ## Usage
 
-1. Right-click **Fix_Multiplayer.bat** and select **Run as administrator**.
+1. Right-click **Fix_Multiplayer.bat**.
 2. Wait for the script to complete all three steps.
 3. Minecraft will reopen automatically — try joining a multiplayer session again.
 
@@ -37,3 +37,4 @@ The script performs three steps:
 ## License
 
 Free to use and modify.
+
